@@ -12,6 +12,4 @@ The policy is available as an HTML document at:
 
 https://raw.githubusercontent.com/fri7at/recipe-app-privacy/main/index.html
 
-A GitHub Pages address is preferred for the Google Play listing once Pages is enabled for this repository:
-
-https://fri7at.github.io/recipe-app-privacy/
+The raw HTML URL above is the currently active public URL. GitHub Pages can be enabled later from the repository Settings > Pages if a rendered Pages address is preferred.
