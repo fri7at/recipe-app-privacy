@@ -1,15 +1,15 @@
-# AFF Inc. Recipe Applications — Privacy Policy
+# AFF Inc. Recipe Applications — Privacy Policies
 
-This repository contains the privacy policy for the following AFF Inc. Android applications:
+Each AFF Inc. Android application has its own independent privacy-policy page. The pages are written in English and identify the specific application name and package ID.
 
-- Quick Recipes — `com.aklatsreeah.ramdan`
-- Quick Desserts — `com.halwyatsreeah.ramdan`
-- Quick Salads — `com.salatatsreeah.ramdan`
-- Easy Soups — `com.shorbatsreeah.ramdan`
-- Quick Juices and Drinks — `com.asaersreeah.ramdan`
+| Application | Package ID | Active public policy URL |
+|---|---|---|
+| Quick Recipes | `com.aklatsreeah.ramdan` | https://raw.githubusercontent.com/fri7at/recipe-app-privacy/main/quick-recipes/index.html |
+| Quick Desserts | `com.halwyatsreeah.ramdan` | https://raw.githubusercontent.com/fri7at/recipe-app-privacy/main/quick-desserts/index.html |
+| Quick Salads | `com.salatatsreeah.ramdan` | https://raw.githubusercontent.com/fri7at/recipe-app-privacy/main/quick-salads/index.html |
+| Easy Soups | `com.shorbatsreeah.ramdan` | https://raw.githubusercontent.com/fri7at/recipe-app-privacy/main/easy-soups/index.html |
+| Quick Juices and Drinks | `com.asaersreeah.ramdan` | https://raw.githubusercontent.com/fri7at/recipe-app-privacy/main/quick-juices/index.html |
 
-The policy is available as an HTML document at:
+The root page is only an index linking to the five separate policies. Each policy covers the relevant app’s local storage, offline recipe features, Google Mobile Ads usage, data retention, sharing, and contact information. AFF Inc. does not use Firebase Analytics in these applications.
 
-https://raw.githubusercontent.com/fri7at/recipe-app-privacy/main/index.html
-
-The raw HTML URL above is the currently active public URL. GitHub Pages can be enabled later from the repository Settings > Pages if a rendered Pages address is preferred.
+GitHub Pages can be enabled later from repository Settings > Pages if a rendered Pages address is preferred. The raw HTML links above are the active public URLs at present.
